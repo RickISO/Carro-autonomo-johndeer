@@ -35,7 +35,7 @@ typedef struct
 
 } IMU_Data;
 
-
+// falta el acabar las funciones pero occupo el modelo
 void IMU_Init(void);
 
 void IMU_ReadRaw(IMU_RawData *raw_data);
